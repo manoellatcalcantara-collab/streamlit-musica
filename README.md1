@@ -1,0 +1,9 @@
+# 🎵 Sua Música do Dia
+
+App em Streamlit que recomenda músicas com base no seu humor.
+
+## 🚀 Como rodar
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
